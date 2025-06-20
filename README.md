@@ -1,5 +1,7 @@
-## Hi there 👋
+##[website](https://alan-palayoor.github.io)
 
+##License: CC3.0
+##Reason: Keeping the same license that came with the website template.
 <!--
 **alan-palayoor/alan-palayoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
